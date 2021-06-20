@@ -1,0 +1,7 @@
+{
+    "tableName": "petsdb",
+    "partitionKeyName": "name",
+    "partitionKeyType": "S",
+    "sortKeyName": "type",
+    "sortKeyType": "S"
+}
